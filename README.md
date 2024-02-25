@@ -1,2 +1,2 @@
-# go-beginners
-A Beginners Golang Course with Exampled
+# Go-Beginner Course
+A Beginners Golang Course with Examples
